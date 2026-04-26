@@ -30,5 +30,8 @@ Help HR teams understand attrition trends by department, age group, job role, an
 - Employees aged 25–35 leave most frequently
 - Low job satisfaction strongly correlates with attrition
 
+## 📸 Dashboard Preview
+![Dashboard Preview](dashboard_preview.png)
+
 ## 👤 Author
 [Shreyash Mandlik](https://github.com/shreyash-mandlik)
